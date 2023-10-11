@@ -2,7 +2,7 @@
 
 Official repo for The follwoing papers:
 1. Enhancing Security in IoT-Based Smart Wheelchair Networks with an Intrusion Detection System (using HCRL Datasets).
-2. An IDS for IoT (using CICIoT2023)
+2. An IDS Framework for IoT (using CICIoT2023)
 
 Datasets Used:
 1. **Message Attacks Datasets**: [Hacking and Countermeasure Research Lab - HCRL Dataset](https://ocslab.hksecurity.net/Datasets)
