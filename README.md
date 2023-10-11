@@ -1,8 +1,8 @@
 # Intrusion Detection System for Smart Wheelchair Networks (IDS-4-SWC)
 
-Official repo for The follwoing papers:
-1. Enhancing Security in IoT-Based Smart Wheelchair Networks with an Intrusion Detection System (using HCRL Datasets).
-2. An IDS Framework for IoT Devices (using CICIoT2023)
+Official repo for The following papers:
+1. Enhancing ... (using HCRL Datasets).
+2. An IDS ... (using CICIoT2023)
 
 Datasets Used:
 1. **Message Attacks Datasets**: [Hacking and Countermeasure Research Lab - HCRL Dataset](https://ocslab.hksecurity.net/Datasets)
